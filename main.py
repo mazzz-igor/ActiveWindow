@@ -118,3 +118,4 @@ while True:
         print(f"Window: {curr_window} Time: {curr_time}")
         prev_window = curr_window
         # prev_time = curr_time
+
